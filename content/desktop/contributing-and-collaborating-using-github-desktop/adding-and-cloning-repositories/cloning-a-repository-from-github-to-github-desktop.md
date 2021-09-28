@@ -48,6 +48,6 @@ shortTitle: Clone a GitHub repo
   {% endnote %}
 
 5. Click **Clone**.
-![The clone button](/assets/images/help/desktop/clone-button-url-win.png)
+![The clone button](/assets/images/help/desktop/clone-button-url-win.png)git clone [url]
 
 {% endwindows %}
